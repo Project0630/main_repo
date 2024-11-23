@@ -1,2 +1,2 @@
-# main_rep
+# main_repo
 project Main code 
